@@ -1,0 +1,11 @@
+id,name,roll,course,email,phone,marks
+1,Rahul Sharma,101,CSE,rahul@example.com,9000000001,85
+2,Aman Kumar,102,CSE AIML,aman@example.com,9000000002,90
+3,Priya Singh,103,CSE,priya@example.com,88
+4,Rohit Verma,104,IT,rohit@example.com,76
+5,Neha Gupta,105,CSE DS,neha@example.com,92
+6,Arjun Yadav,106,CSE,arjun@example.com,81
+7,Anjali Mishra,107,IT,anjali@example.com,87
+8,Vikas Singh,108,CSE AIML,vikas@example.com,79
+9,Pooja Sharma,109,CSE,pooja@example.com,95
+10,Karan Kumar,110,CSE DS,karan@example.com,83
