@@ -45,7 +45,7 @@ python apps.py
 
 5. Select an option from the menu.
 
-GitHub Repository
+GitHub Repository https://github.com/nikhilpandey8078-hub/HCL0680-Hub
 
 https://github.com/nikhilpandey8078-hub/HCL0680-Hub
 
